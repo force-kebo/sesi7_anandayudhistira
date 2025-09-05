@@ -1,5 +1,4 @@
 # sesi7_anandayudhistira
-# sesi7_anandayudhistira
 
 This project contains automated API tests for [reqres.in](https://reqres.in) using Mocha and Chai.
 
