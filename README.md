@@ -1,5 +1,7 @@
 # sesi7_anandayudhistira
 
+![API Test Icon](https://img.icons8.com/fluency/48/api.png) <!-- Project icon -->
+
 This project contains automated API tests for [reqres.in](https://reqres.in) using Mocha and Chai.
 
 ## Project Structure
